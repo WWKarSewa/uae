@@ -1,0 +1,19 @@
+[
+    {
+        "question": "What does a solid white line in the center of the road indicate in the UAE?",
+        "options": [
+            "Overtaking is allowed for both directions",
+            "No overtaking allowed",
+            "Overtaking is allowed if safe",
+            "Only heavy vehicles can overtake"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In the UAE, a solid white line means no overtaking is allowed for vehicles in either direction."
+    },
+    {
+        "question": "What is the speed limit in residential areas in the UAE unless otherwise posted?",
+        "options": ["40 km/h", "60 km/h", "80 km/h", "100 km/h"],
+        "correctAnswer": 0,
+        "explanation": "The default speed limit in UAE residential areas is 40 km/h unless a sign indicates otherwise."
+    }
+]
